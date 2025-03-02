@@ -13,6 +13,8 @@ Many teenagers lack financial literacy skills, which can lead to poor money mana
 - **Real-World Scenarios**: Simulated financial decisions to improve practical understanding.
 - **Gamification**: Progress tracking and rewards to encourage continuous learning.
 
+> "In a world where financial decisions shape futures, we empower teens with the right tools!"
+
 ---
 
 ## 🚀 Features 🟡
@@ -69,35 +71,35 @@ finlit_teens/
 ---
 
 ## 🎥 Video Demo 🟡
-📌 **[https://drive.google.com/file/d/1nbVPlgPzZZsktEI0ao4nI4gyiRoGXxJl/view?usp=drive_link]**
+📌 **[Add your video demo link here]**
 
 *(Upload your project demo on YouTube or Google Drive and paste the link above)*
 
 ---
 
 ## 📽️ Prototype Screen Recording 🟡
-📌 **[https://drive.google.com/file/d/1yb-Y-97ydyoa1NOQDTcifsJpi9g994fG/view?usp=drive_link]**
+📌 **[Add your prototype screen recording link here]**
 
 *(Record your app prototype interactions and upload the video, then paste the link above)*
 
 ---
 
 ## 📄 Documentation 🟡
-📌 **[https://drive.google.com/file/d/1abssjQe0XHvP5z-7S-NM0UXaFtMiIS5r/view?usp=drive_link]**
+📌 **[Add your documentation link here]**
 
 *(Upload your detailed project document and provide the link here)*
 
 ---
 
 ## 📧 Contact 🟡
-For queries or collaborations, feel free to reach out:
-- **Emails:**
-  - dhairyakanabar7737@gmail.com
-  - kathanmodh25@gmail.com
-  - charmidodiya2005@gmail.com
-  - prathamhpatel626@gmail.com
+💌 **Get in Touch!** Whether you have feedback, collaboration ideas, or just want to chat, drop us an email:
+- 📧 dhairyakanabar7737@gmail.com
+- 📧 kathanmodh25@gmail.com
+- 📧 charmidodiya2005@gmail.com
+- 📧 prathamhpatel626@gmail.com
 
 ---
 
-🔹 *Made with 💛 using Flutter!*
+🏆 **Built by 2nd-year students who learned Flutter in just 5 days!**
 
+🔹 *Made with 💛 using Flutter!*
