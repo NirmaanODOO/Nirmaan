@@ -24,6 +24,18 @@ Many teenagers lack financial literacy skills, which can lead to poor money mana
 
 ---
 
+## 👨‍💻 Team Members 🟡
+- **Pratham Patel** - UI/UX Designer 🎨  
+  [LinkedIn](https://www.linkedin.com/in/pratham-patel-200047207/)
+- **Charmi Dodiya** - Flutter Development 📱  
+  [LinkedIn](https://www.linkedin.com/in/charmi-dodiya-150a99287/)
+- **Dhairya Kanabar** - Animations & Gamification in Flutter 🎮  
+  [LinkedIn](https://www.linkedin.com/in/dhairya-kanabar-411990294/)
+- **Kathan Modh** - Backend & Database (Firebase) 🔥  
+  [LinkedIn](https://www.linkedin.com/in/kathan-modh-b42b14225/)
+
+---
+
 ## 📂 Project Structure 🟡
 ```
 finlit_teens/
@@ -79,8 +91,11 @@ finlit_teens/
 
 ## 📧 Contact 🟡
 For queries or collaborations, feel free to reach out:
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Emails:**
+  - dhairyakanabar7737@gmail.com
+  - kathanmodh25@gmail.com
+  - charmidodiya2005@gmail.com
+  - prathamhpatel626@gmail.com
 
 ---
 
