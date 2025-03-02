@@ -71,14 +71,14 @@ finlit_teens/
 ---
 
 ## 🎥 Video Demo 🟡
-📌 **[Add your video demo link here]**
+📌 **[https://drive.google.com/file/d/1nbVPlgPzZZsktEI0ao4nI4gyiRoGXxJl/view?usp=drive_link]**
 
 *(Upload your project demo on YouTube or Google Drive and paste the link above)*
 
 ---
 
 ## 📽️ Prototype Screen Recording 🟡
-📌 **[Add your prototype screen recording link here]**
+📌 **[https://drive.google.com/file/d/1yb-Y-97ydyoa1NOQDTcifsJpi9g994fG/view?usp=drive_link]**
 
 *(Record your app prototype interactions and upload the video, then paste the link above)*
 
