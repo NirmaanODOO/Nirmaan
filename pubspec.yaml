@@ -1,0 +1,36 @@
+name: first_app
+description: A new Flutter project.
+
+publish_to: 'none' # Prevents accidental publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0" # Ensure compatible Dart SDK version
+
+dependencies:
+  
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.70.2
+  lottie: ^2.3.0  # Ensure this version or later is installed
+  smooth_page_indicator: ^1.2.1
+  google_fonts: ^6.2.1  # Keep only one google_fonts entry
+  
+ 
+
+flutter:
+  uses-material-design: true
+  
+
+  assets:
+    - assets/Content.png
+    - assets/Trust.png
+    - assets/Receive_money.png
+    - assets/send_money.png
+    - assets/sign_up.png
+    - assets/finlit.json
+    
+   
+    
+
