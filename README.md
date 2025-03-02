@@ -69,7 +69,7 @@ finlit_teens/
 ---
 
 ## 🎥 Video Demo 🟡
-📌 **[Add your video demo link here]**
+📌 **[https://drive.google.com/file/d/1nbVPlgPzZZsktEI0ao4nI4gyiRoGXxJl/view?usp=drive_link]**
 
 *(Upload your project demo on YouTube or Google Drive and paste the link above)*
 
